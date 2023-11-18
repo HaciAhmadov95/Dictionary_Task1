@@ -1,0 +1,14 @@
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\bin\Debug\net6.0\HomeTask_PhoneContact.exe
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\bin\Debug\net6.0\HomeTask_PhoneContact.deps.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\bin\Debug\net6.0\HomeTask_PhoneContact.runtimeconfig.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\bin\Debug\net6.0\HomeTask_PhoneContact.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\bin\Debug\net6.0\HomeTask_PhoneContact.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\obj\Debug\net6.0\HomeTask_PhoneContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\obj\Debug\net6.0\HomeTask_PhoneContact.AssemblyInfoInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\obj\Debug\net6.0\HomeTask_PhoneContact.AssemblyInfo.cs
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\obj\Debug\net6.0\HomeTask_PhoneContact.csproj.CoreCompileInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\obj\Debug\net6.0\HomeTask_PhoneContact.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\obj\Debug\net6.0\refint\HomeTask_PhoneContact.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\obj\Debug\net6.0\HomeTask_PhoneContact.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\obj\Debug\net6.0\HomeTask_PhoneContact.genruntimeconfig.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\Dictionary_Sorted-List\HomeTask_PhoneContact\HomeTask_PhoneContact\obj\Debug\net6.0\ref\HomeTask_PhoneContact.dll
